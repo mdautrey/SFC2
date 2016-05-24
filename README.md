@@ -30,5 +30,5 @@ Une seconde partie (JOUR 2) dédiée à la programmation Web consistera à publi
 ### Java est-il un langage adapté à ce projet ?
 Oui et non :
 - Non parce que la plupart des analystes de données vous suggéreraient de travailler avec R ou python qui fournissent des bibliothéques avancées de traitement des données et permettent d'aboutir plus rapidement à un résultat
-- Oui parce que vous participez à ce TP pour apprendre Java, parce que Java est aussi le langage utilisé pour développer beaucoup de bibliothèques d'analyse de données (hadoop, spark, etc...), parce que travailler sur des fichiers de données permet d'aborder des aspects de la programmation que l'on ne trouve pas dans un projet "helloworld" en Java/JEE
+- Oui parce que vous participez à ce TP pour apprendre Java, parce que Java est aussi le langage utilisé pour développer beaucoup de bibliothèques d'analyse de données (hadoop, spark, etc...), parce que travailler sur des fichiers de données est une opportunité d'aborder des aspects de la programmation que l'on ne trouve pas dans un projet "helloworld" en Java/JEE
 
